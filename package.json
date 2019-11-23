@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-recoded-sanaa-2019",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawalandualghani/npm-lab-recoded-sanaa-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawalandualghani/npm-lab-recoded-sanaa-2019/issues"
+  },
+  "homepage": "https://github.com/nawalandualghani/npm-lab-recoded-sanaa-2019#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
